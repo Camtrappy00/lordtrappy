@@ -1796,7 +1796,7 @@ break;
                 client.sendMessage(
                     from, {
                         video: fs.readFileSync(`./${randomName}`),
-                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐁𝐥𝐮𝐞-𝐁𝐞𝐞𝐭𝐥𝐞`,
+                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐌𝐮𝐟𝐚𝐬𝐚`,
                     }, {
                         quoted: m
                     }
@@ -1819,13 +1819,13 @@ case "ping": case "speed": {
  break; 
   
  case "runtime": { 
-                 m.reply (`𝐁𝐥𝐮𝐞 𝐁𝐞𝐞𝐭𝐥𝐞  𝙷𝚊𝚜 𝙱𝚎𝚎𝚗 𝙰𝚌𝚝𝚒𝚟𝚎 𝙵𝚘𝚛 ${runtime(process.uptime())}`) 
+                 m.reply (`𝐌𝐮𝐟𝐚𝐬𝐚  𝙷𝚊𝚜 𝙱𝚎𝚎𝚗 𝙰𝚌𝚝𝚒𝚟𝚎 𝙵𝚘𝚛 ${runtime(process.uptime())}`) 
  } 
  break;
 
 case "alive": { 
   
- client.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/20398aa1a753cf476f768.mp4' }, caption: `𝐇𝐞𝐥𝐥𝐨 *${m.pushName}*, 𝐁𝐋𝐔𝐄-𝐁𝐄𝐄𝐓𝐋𝐄  𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐚𝐥𝐢𝐯𝐞 𝐬𝐢𝐧𝐜𝐞 *${runtime(process.uptime())}*,\n\n✦𝐓𝐲𝐩𝐞 ${prefix}𝐦𝐞𝐧𝐮 𝐭𝐨 𝐚𝐜𝐜𝐞𝐬𝐬 𝐦𝐲 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 𝐥𝐢𝐬𝐭.\n✦𝐓𝐲𝐩𝐞 ${prefix}𝐫𝐞𝐩𝐨 𝐭𝐨 𝐠𝐞𝐭 𝐦𝐲 𝐬𝐨𝐮𝐫𝐜𝐞 𝐜𝐨𝐝𝐞.\n✦𝐓𝐲𝐩𝐞 ${prefix}𝐨𝐰𝐧𝐞𝐫 𝐭𝐨 𝐜𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐲 𝐜𝐫𝐞𝐚𝐭𝐨𝐫.\n\n✦𝐄𝐧𝐣𝐨𝐲 𝐚𝐧𝐝 𝐇𝐚𝐯𝐞 𝐟𝐮𝐧 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐛𝐨𝐭.\n✦𝐌𝐚𝐝𝐞  𝐛𝐲 𝛫𝛪𝛭𝛭𝑌`,fileLength: "9999999999898989899999999" }, { quoted: m });
+ client.sendMessage(m.chat, { video: { url 'https://telegra.ph/file/3d27a628fa3ec05e65d95.mp4' }, caption: `𝐇𝐞𝐥𝐥𝐨 *${m.pushName}*, 𝐁𝐋𝐔𝐄-𝐁𝐄𝐄𝐓𝐋𝐄  𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐚𝐥𝐢𝐯𝐞 𝐬𝐢𝐧𝐜𝐞 *${runtime(process.uptime())}*,\n\n✦𝐓𝐲𝐩𝐞 ${prefix}𝐦𝐞𝐧𝐮 𝐭𝐨 𝐚𝐜𝐜𝐞𝐬𝐬 𝐦𝐲 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 𝐥𝐢𝐬𝐭.\n✦𝐓𝐲𝐩𝐞 ${prefix}𝐫𝐞𝐩𝐨 𝐭𝐨 𝐠𝐞𝐭 𝐦𝐲 𝐬𝐨𝐮𝐫𝐜𝐞 𝐜𝐨𝐝𝐞.\n✦𝐓𝐲𝐩𝐞 ${prefix}𝐨𝐰𝐧𝐞𝐫 𝐭𝐨 𝐜𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐲 𝐜𝐫𝐞𝐚𝐭𝐨𝐫.\n\n✦𝐄𝐧𝐣𝐨𝐲 𝐚𝐧𝐝 𝐇𝐚𝐯𝐞 𝐟𝐮𝐧 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐛𝐨𝐭.\n✦𝐌𝐚𝐝𝐞  𝐛𝐲 𝛫𝛪𝛭𝛭𝑌`,fileLength: "9999999999898989899999999" }, { quoted: m });
  }
 break;
 case 'apk': {
@@ -1916,7 +1916,7 @@ client.sendMessage(from, buttonMessage, { quoted: m })
    fs.unlinkSync(media); 
    if (err) throw err 
    let buffer = fs.readFileSync(mokaya); 
-   client.sendMessage(m.chat, { image: buffer, caption: `*𝐂𝐨𝐧𝐯𝐞𝐫𝐭𝐞𝐝 𝐛𝐲  𝐁𝐞𝐞𝐭𝐥𝐞  ☬*`}, { quoted: m }) 
+   client.sendMessage(m.chat, { image: buffer, caption: `*𝐂𝐨𝐧𝐯𝐞𝐫𝐭𝐞𝐝 𝐛𝐲  𝐌𝐮𝐟𝐚𝐬𝐚  ☬*`}, { quoted: m }) 
    fs.unlinkSync(mokaya); 
     }); 
     } 
@@ -1966,8 +1966,8 @@ case "movie":
              } 
  break;
  
-      case "Kimmy": case "owner": case "Kimmy": 
- client.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/20398aa1a753cf476f768.mp4' }, caption: `𝐇𝐞𝐫𝐞 𝐢𝐬 𝐦𝐲 𝐚𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐜𝐫𝐞𝐚𝐭𝐨𝐫, +254790593618 ☤☬` }, {quoted: m}); 
+      case "😵𝒕𝒓𝒂𝒑𝒑𝒚🦁🍃": case "owner": case "😵𝒕𝒓𝒂𝒑𝒑𝒚🦁🍃": 
+ client.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/3d27a628fa3ec05e65d95.mp4' }, caption: `𝐇𝐞𝐫𝐞 𝐢𝐬 𝐦𝐲 𝐚𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐜𝐫𝐞𝐚𝐭𝐨𝐫, +254703251900 ☤☬` }, {quoted: m}); 
   
  break;
        
@@ -2002,10 +2002,10 @@ case "movie":
          let res = groups.map(v => v.id) 
          reply(` Broadcasting in ${res.length} Group Chat, in ${res.length * 1.5} seconds`) 
          for (let i of res) { 
-             let txt = `*_</ 𝐁𝐄𝐄𝐓𝐋𝐄  𝐁𝐎𝐓 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 >\n\n🀄 Message: ${text}\n\nAuthor: ${pushname}_*` 
+             let txt = `*_</ 🦁𝐌𝐔𝐅𝐀𝐒𝐀🦁 𝐁𝐎𝐓 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 >\n\n🀄 Message: ${text}\n\nAuthor: ${pushname}_*` 
              await client.sendMessage(i, { 
                  image: { 
-                     url: "https://telegra.ph/file/4ceb5e3d112d1b3be2493.jpg" 
+                     url: "https://telegra.ph/file/f91aab71170b15d42cfc4.jpg" 
                  }, 
                  caption: `${txt}` 
              }) 
@@ -2082,7 +2082,7 @@ case "movie":
         case "gpt": case "king": 
           
 
-            if (!text) return reply("Hello am 𝐁𝐄𝐄𝐓𝐋𝐄  an Ai developed by  𝛫𝛪𝛭𝛭𝑌, how can I assist you today?");
+            if (!text) return reply("Hello am 🦁𝐌𝐔𝐅𝐀𝐒𝐀🦁  an Ai developed by  😵𝒕𝒓𝒂𝒑𝒑𝒚🦁🍃, how can I assist you today?");
 
            const configuration = new Configuration({
 
@@ -2145,7 +2145,7 @@ async function getConversation() {
 
 // Handler for the "gpt" or "g" case
 async function handleGPTMessage(text, m) {
-  if (!text) return m.reply("Hello am 𝐁𝐄𝐄𝐓𝐋𝐄  an Ai developed by  𝛫𝛪𝛭𝛭𝑌, how can I assist you today?");
+  if (!text) return m.reply("Hello am 🦁𝐌𝐔𝐅𝐀𝐒𝐀🦁  an Ai developed by  😵𝒕𝒓𝒂𝒑𝒑𝒚🦁🍃, how can I assist you today?");
 
   const configuration = new Configuration({
     apiKey: setting,
