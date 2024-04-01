@@ -1,6 +1,6 @@
 {
-  "name": "Blue-Beetle",
-  "description": "𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄 ",
+  "name": "🦁𝐌𝐔𝐅𝐀𝐒𝐀🦁",
+  "description": "🦁𝐌𝐔𝐅𝐀𝐒𝐀🦁 ",
   "keywords": [
     "bot",
     "whatsapp",
@@ -14,9 +14,9 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Madmkisii/Blue-Beetle-V2#readme",
-  "repository": "https://github.com/Madmkisii/Blue-Beetle-V2.git",
-  "logo": "https://telegra.ph/file/dd2557ac4a85507c077d7.jpg",
+  "website": "https://github.com/Camtrappy00/lordtrappy",
+  "repository": "https://github.com/Camtrappy00/lordtrappy",
+  "logo": "https://telegra.ph/file/9830633c0e0e2f829665d.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
