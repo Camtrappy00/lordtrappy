@@ -20,7 +20,7 @@
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of Blue-BeetleEx: . , / , # , & etc. Put any symbol",
+      "description": "Prefix of 𝐌𝐮𝐟𝐚𝐬𝐚: . , / , # , & etc. Put any symbol",
        "required": true
 
     },
