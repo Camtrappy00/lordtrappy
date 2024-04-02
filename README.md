@@ -7,7 +7,7 @@
 <img src="https://telegra.ph/file/f91aab71170b15d42cfc4.jpg" width="650" height="500"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=DAMON+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=TRAPPY+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-😵𝒕𝒓𝒂𝒑𝒑𝒚🦁🍃-red.svg?style=for-the-badge&logo=github"></a>
@@ -34,7 +34,7 @@ DEPLOY ON HEROKU<br>
   <br>
   
 
-***Made on Earth by 𝑲𝒊𝒏𝒈 𝑮 ***
+***Made on Earth by 😵𝒕𝒓𝒂𝒑𝒑𝒚🦁🍃 ***
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
@@ -64,7 +64,7 @@ Linking/Pairing:[https://replit.com/@Madmkisii/Pairing-blue-beetle-1]
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/Madmkisii/Blue-Beetle-V2/fork)
+- Fork this repo by tapping  [here](https://github.com/Camtrappy00/lordtrappy/fork)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
@@ -81,14 +81,14 @@ Linking/Pairing:[https://replit.com/@Madmkisii/Pairing-blue-beetle-1]
 
 
 
-Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/254790593618) via WhatsApp or [here](davemogire04@gmail.com) via Email.
+Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/254703251900) via WhatsApp or [here](davemogire04@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
 
 ## License
 
-[MIT License](https://github.com/Madmkisii/Black-Blue-Beetle-V2/blob/main/LICENSE)
+[MIT License](https://github.com/Camtrappy00/lordtrappy/blob/main/LICENSE)
 
 Copyright (c) 2024   𝐁𝐞𝐞𝐭𝐥𝐞 
 
